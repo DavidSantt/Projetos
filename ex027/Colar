@@ -1,0 +1,61 @@
+/* * {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    body {
+        background-color: rgb(186, 186, 186);
+    }
+
+    header {
+        width: 100%;
+        background-image: linear-gradient(to bottom, rgb(59, 59, 59), rgb(97, 96, 96), rgb(121, 121, 121), rgb(186, 186, 186));
+        margin-bottom: 15px;
+    }
+
+    h1 {
+        color: white;
+        text-align: center;
+        font-size: 2.5em;
+        margin-bottom: 40px;
+    }
+
+    nav>a {
+        margin-left: 5px;
+        text-decoration: none;
+        color: white;
+        background-color: rgb(59, 59, 59);
+        padding: 5px;
+        border-radius: 7px;
+    }
+
+    a:hover {
+        text-decoration: underline;
+        font-size: 18px;
+        background-color: black;
+        transition: 0.3s;
+    }
+
+    #burguer {
+        display: none;
+    }
+
+    main {
+        background-color: white;
+        border-radius: 10px;
+        padding: 10px;
+        width: 90vw;
+        max-width: 800px;
+        margin: auto;
+        box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.489);
+    }
+
+    article>h2 {
+        padding-bottom: 10px;
+        line-height: 1.5em;
+    }
+
+    article>p {
+        text-align: justify;
+        text-indent: 20px;
+    } */
