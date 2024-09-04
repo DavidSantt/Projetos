@@ -23,8 +23,6 @@ body, html {
 
 main {
     position: relative;
-    width: 100vw;
-    height: 100vh;
 }
 
 #login {
@@ -39,7 +37,7 @@ main {
     top: 50%;
     left: 50%;
 
-    transform: translate(-50%,50%);
+    transform: translate(-50%,10%);
 
 }
 
