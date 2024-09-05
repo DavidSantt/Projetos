@@ -76,6 +76,11 @@ img {
 p > input {
     margin-top: 10px;
     margin-bottom: 10px;
+    height: 30px;
+    width: 85%;
+    font-size: 0.8em;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0);
+    
 }
 
 p > input#center {
